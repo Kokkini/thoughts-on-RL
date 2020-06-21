@@ -3,3 +3,5 @@
 * RL under various environment changes (for example, different background patterns, adding a speed indicator on the screen)
 * RL against adversarial changes in observation
 * RL with good representation that can be used across multiple games
+* Cooperation to achieve complicated tasks with simple agents in multi-agent environments
+
