@@ -5,4 +5,5 @@
 * RL with good representation that can be used across multiple games
 * Cooperation to achieve complicated tasks with simple agents in multi-agent environments
 * Solving an environment using different solutions
+* RL for real robots
 
